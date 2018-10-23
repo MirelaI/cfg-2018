@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+
+#favorite-artist {
+  color: aqua;
+}
+
+.artists {
+  color: blueviolet;
+}
+
+.paragraph-pink {
+  color: pink;
+}
+
+.paragraph-yellow {
+  color: yellow
+}
+
+.paragraph-pink * {
+  font-family: Helvetica, sans-serif
+}
